@@ -1,0 +1,55 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1583544254264">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="wifi-connection-problems.css" crc="527548039" ref="wifi-connection-problems"/>
+    <file name="help-for-teachers.css" crc="4058605770" ref="help-for-teachers"/>
+    <file name="printing-help.css" crc="259091482" ref="printing-help"/>
+    <file name="google-classroom-help.css" crc="520536983" ref="google-classroom-help"/>
+    <file name="index.css" crc="191295512" ref="index"/>
+    <file name="papercut-1.css" crc="2075360" ref="papercut-1"/>
+    <file name="papercut-3.css" crc="260836320" ref="papercut-3"/>
+    <file name="papercut-2.css" crc="4106626703" ref="papercut-2"/>
+  </folder>
+  <folder name="assets">
+    <file name="wifi.html.muse" crc="83082117" seo="true" mt="1583481068000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:wifi-connection-problems:printing-help:google-classroom-help:help-for-teachers:papercut-1:papercut-2:papercut-3"/>
+    <file name="museutils.js" crc="3939489907" ref="index:wifi-connection-problems:printing-help:google-classroom-help:help-for-teachers:papercut-1:papercut-2:papercut-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:wifi-connection-problems:printing-help:google-classroom-help:help-for-teachers:papercut-1:papercut-2:papercut-3"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:wifi-connection-problems:printing-help:google-classroom-help:help-for-teachers:papercut-1:papercut-2:papercut-3"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:wifi-connection-problems:printing-help:google-classroom-help:help-for-teachers:papercut-1:papercut-2:papercut-3"/>
+    <file name="require.js" crc="4177726516" ref="index:wifi-connection-problems:printing-help:google-classroom-help:help-for-teachers:papercut-1:papercut-2:papercut-3"/>
+  </folder>
+  <folder name="images">
+    <file name="wifi 1.png" crc="4202142102" seo="true" ref="wifi-connection-problems">
+      <caption webpage="wifi-connection-problems" alt=""/>
+    </file>
+    <file name="wifi 2.png" crc="455153927" seo="true" ref="wifi-connection-problems">
+      <caption webpage="wifi-connection-problems" alt=""/>
+    </file>
+    <file name="wifi 3.png" crc="4083973708" seo="true" ref="wifi-connection-problems">
+      <caption webpage="wifi-connection-problems" alt=""/>
+    </file>
+    <file name="classroom help.png" crc="151397780" seo="true" ref="google-classroom-help">
+      <caption webpage="google-classroom-help" alt=""/>
+    </file>
+    <file name="papercut help 1.png" crc="480640829" seo="true" ref="papercut-1">
+      <caption webpage="papercut-1" alt=""/>
+    </file>
+    <file name="papercut help 2.png" crc="29174125" seo="true" ref="papercut-2">
+      <caption webpage="papercut-2" alt=""/>
+    </file>
+    <file name="papercut help 3.png" crc="342013037" seo="true" ref="papercut-3">
+      <caption webpage="papercut-3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3967400398" seo="true" mt="1583488504249" redirect="true"/>
+  <file name="wifi-connection-problems.html" crc="4006487569" seo="true" mt="1583543783938" redirect="true"/>
+  <file name="printing-help.html" crc="379095542" seo="true" mt="1583538585670" redirect="true"/>
+  <file name="google-classroom-help.html" crc="3943318020" seo="true" mt="1583527123760" redirect="true"/>
+  <file name="help-for-teachers.html" crc="3768523459" seo="true" mt="1583531151826" redirect="true"/>
+  <file name="papercut-1.html" crc="152788350" seo="true" mt="1583534028906" redirect="true"/>
+  <file name="papercut-2.html" crc="99590781" seo="true" mt="1583536519236" redirect="true"/>
+  <file name="papercut-3.html" crc="133890829" seo="true" mt="1583538484946" redirect="true"/>
+</manifest>
