@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1583544254264">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1583735662775">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="wifi-connection-problems.css" crc="527548039" ref="wifi-connection-problems"/>
     <file name="help-for-teachers.css" crc="4058605770" ref="help-for-teachers"/>
     <file name="printing-help.css" crc="259091482" ref="printing-help"/>
     <file name="google-classroom-help.css" crc="520536983" ref="google-classroom-help"/>
-    <file name="index.css" crc="191295512" ref="index"/>
+    <file name="index.css" crc="4229864186" ref="index"/>
     <file name="papercut-1.css" crc="2075360" ref="papercut-1"/>
     <file name="papercut-3.css" crc="260836320" ref="papercut-3"/>
     <file name="papercut-2.css" crc="4106626703" ref="papercut-2"/>
@@ -44,7 +44,7 @@
       <caption webpage="papercut-3" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3967400398" seo="true" mt="1583488504249" redirect="true"/>
+  <file name="index.html" crc="180409873" seo="true" mt="1583735648955" redirect="true"/>
   <file name="wifi-connection-problems.html" crc="4006487569" seo="true" mt="1583543783938" redirect="true"/>
   <file name="printing-help.html" crc="379095542" seo="true" mt="1583538585670" redirect="true"/>
   <file name="google-classroom-help.html" crc="3943318020" seo="true" mt="1583527123760" redirect="true"/>
